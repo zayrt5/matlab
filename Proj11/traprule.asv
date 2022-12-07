@@ -1,0 +1,8 @@
+function integral = traprule(a,b)
+    
+%(f(a) - f(b))
+
+
+
+end
+

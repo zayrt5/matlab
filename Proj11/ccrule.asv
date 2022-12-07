@@ -1,0 +1,9 @@
+function intapprox = ccrule(a, b, npoints)
+    [x,w] = fclencurt(npoints, a,b);
+    for i = 1:1:size(x)
+        
+    end    
+    intapprox = xs;
+
+end
+
